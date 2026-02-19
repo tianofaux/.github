@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/tianofaux/.github/assets/banner.png)
+![Profile Banner](https://raw.githubusercontent.com/tianofaux/.github/refs/heads/main/assets/banner.png)
 
 # tianofaux
 
